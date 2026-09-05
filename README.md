@@ -17,6 +17,10 @@
 
 ## 🧑‍💻 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ```javascript
 const yashika = {
     role: "Frontend Developer",
@@ -33,6 +37,15 @@ const yashika = {
 - 👯 Open to collaborate on **frontend & full-stack projects**
 - 💬 Ask me about **React, JavaScript, HTML/CSS, Tailwind**
 - ⚡ Fun fact: I love clean UI more than clean code (jk, both! 😄)
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/yashika-kushwaha/yashika-kushwaha/main/dev_binary_morph.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
