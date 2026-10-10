@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated waving banner (fades in text, waves continuously) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&customColorList=12,14,18,24&text=YOUR%20NAME&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source&descSize=20&descAlignY=60" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&customColorList=12,14,18,24&text=ALPHA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source&descSize=20&descAlignY=60" width="100%" alt="banner"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
